@@ -39,7 +39,7 @@ Relationships between the tables are enforced using **primary keys** and **forei
 ### Database Schema
 
 ```markdown
-![Database Schema](images/database_schema.png)
+![Database Schema](images/chocolate_db.png)
 ```
 
 ---
