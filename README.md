@@ -38,9 +38,9 @@ Relationships between the tables are enforced using **primary keys** and **forei
 
 ### Database Schema
 
-```markdown
-![Database Schema](schema.png)
-```
+
+![Database Schema](images/schema.png)
+
 
 ---
 
