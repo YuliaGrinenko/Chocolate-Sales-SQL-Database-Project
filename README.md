@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates the process of designing and creating a relational database for analysing chocolate sales data using **MySQL**. It focuses on database design, table creation, data organisation, and exploratory SQL analysis.
+This project demonstrates the process of designing and creating a relational database for analysing chocolate sales data using MySQL. The project includes database design, table creation, data exploration, and business analysis using SQL to identify trends in sales performance, products, customers, stores, and time periods.
 
 The database was built from a sales dataset and organised into a relational schema consisting of dimension tables and a fact table to support efficient data analysis.
 
