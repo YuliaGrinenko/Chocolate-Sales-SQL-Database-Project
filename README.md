@@ -38,41 +38,40 @@ Relationships between the tables are enforced using **primary keys** and **forei
 
 ### Database Schema
 
-
 ![Database Schema](images/schema.png)
-
 
 ---
 
-## Current Progress
+## Project Components
 
 The following stages have been completed:
 
-* ✅ Created the database
-* ✅ Designed and created relational tables
-* ✅ Defined primary and foreign keys
-* ✅ Imported data from CSV files
-* ✅ Performed initial data exploration using SQL queries
-* ✅ Generated a database schema
----
-
-## Project Status
-
-🚧 **Work in Progress**
-
-This project is actively being developed. Future updates will include more advanced SQL analysis and business insights.
-
-### Planned Improvements
-
-* Sales trend analysis
-* Product performance analysis
-* Customer purchasing behaviour analysis
-* Store performance analysis
-* Profitability analysis
-* Business insights and recommendations
+- ✅ Created the database
+- ✅ Designed and created relational tables
+- ✅ Defined primary and foreign keys
+- ✅ Imported data from CSV files
+- ✅ Performed data exploration and quality checks
+- ✅ Conducted sales performance analysis
+- ✅ Conducted product performance analysis
+- ✅ Conducted customer analysis
+- ✅ Conducted store performance analysis
+- ✅ Conducted time-based sales analysis
+- ✅ Generated a database schema
 
 ---
+## SQL Skills Demonstrated
 
+- Database design and relational modelling
+- Primary and foreign key implementation
+- Data import and validation
+- Data exploration and quality checks
+- Multi-table joins
+- Aggregate functions (`SUM`, `COUNT`, `AVG`)
+- `GROUP BY` and `ORDER BY`
+- `CASE` statements
+- Business-focused sales analysis
+
+---
 ## Tools & Technologies
 
 * MySQL
