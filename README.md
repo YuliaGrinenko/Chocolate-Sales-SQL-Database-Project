@@ -15,8 +15,7 @@ The database was built from a sales dataset and organised into a relational sche
 * Implement primary and foreign keys to maintain data integrity
 * Import data from CSV files
 * Explore the dataset using SQL queries
-* Build a foundation for business-focused sales analysis
-
+* Perform business-focused analysis to identify trends and insights across sales, products, customers and stores
 ---
 
 ## Database Design
@@ -94,6 +93,4 @@ The following stages have been completed:
 - Product categories did not always align with chocolate types. For example, products containing "Dark Chocolate" appeared across multiple categories, including Praline and White. As a result, category-level analysis should be interpreted as product-family performance rather than chocolate-type performance.
 
 - The analysis was performed on a reduced version of the original dataset and should be interpreted within the context of the available data.
-## Dataset
 
-The project uses a chocolate sales dataset containing information about products, customers, stores and sales transactions.
